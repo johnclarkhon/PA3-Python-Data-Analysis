@@ -29,7 +29,7 @@ This project focuses on using Pandas Library which is very useful for data analy
 Steps:
 1. Load the corresponding .csv file into a data frame named cars using pandas
 2. Display the first five and last five rows of the resulting cars.
-
+3. Save the file as python, refer on Honrado_Pandas-P1.py.
 
 ### PROBLEM 2: Extracting Using Subsetting, Slicing and Indexing Operations:
 Steps:
@@ -37,6 +37,6 @@ Steps:
 2. Display the row that contains the ‘Model’ of ‘Mazda RX4’.
 3. How many cylinders (‘cyl’) does the car model ‘Camaro Z28’ have?
 4. Determine how many cylinders (‘cyl’) and what gear type (‘gear’) do the car models ‘Mazda RX4 Wag’, ‘Ford Pantera L’ and ‘Honda Civic’ have.
-
+5. Save the file as python, refer on Honrado_Pandas-P2.py
 
 
