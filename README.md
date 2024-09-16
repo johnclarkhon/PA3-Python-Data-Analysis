@@ -1,4 +1,6 @@
 # PA3: Python Data Analysis (PANDAS)
+
+## Author
 ### Name: John Clark D. Honrado
 ### Section: 2ECE-A
 
