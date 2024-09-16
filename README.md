@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/27a08c6a-5b65-4322-b91c-c3809eb6c6ee)
+
 # PA3: Python Data Analysis (PANDAS)
 This project focuses on using Pandas Library which is very useful for data analysis in Python. 
 
