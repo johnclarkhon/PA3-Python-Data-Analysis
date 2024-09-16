@@ -1,12 +1,9 @@
 # PA3: Python Data Analysis (PANDAS)
+This project focuses on using Pandas Library which is very useful for data analysis in Python. 
 
 ## Author
 ### Name: John Clark D. Honrado
 ### Section: 2ECE-A
-
-
-This project focuses on using Pandas Library which is very useful for data analysis in Python. 
-
 
 
 ## Requirements before doing the project:
